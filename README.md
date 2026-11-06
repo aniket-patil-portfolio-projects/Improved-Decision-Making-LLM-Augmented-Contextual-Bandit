@@ -1,4 +1,4 @@
-# Improved Decision Making Through LLM-Augmented Contextual Bandits
+# Improved Decision Making Through LLM-Augmented Contextual Bandits (MS CS Capstone Academic Project)
 
 ## Overview
 
